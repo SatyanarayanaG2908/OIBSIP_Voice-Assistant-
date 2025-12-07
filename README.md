@@ -43,13 +43,14 @@ This project is part of my **Oasis Infobyte (OIBSIP)** internship.
 ## 🎬 Demo
 <p align="center">
   <!-- Replace the below LinkedIn link with your actual demo post link -->
-  <a href="YOUR_LINKEDIN_POST_LINK_HERE" target="_blank">
+  <a href="(https://www.linkedin.com/posts/satyanarayanagattu_oasisinfobyte-oasisinfobyte-internship-activity-7403404636394590208-M7nY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF0JdNsB3Io7VkJeSkm-xsczfF3Y_GX3lSA)" target="_blank">
     <img src="assets/nova-demo.gif" alt="Nova Voice Assistant Demo" width="650" />
   </a>
 </p>
+
 > 🎥 **Demo Video:**  
 > Watch the full demonstration of the Nova Voice Assistant on LinkedIn:  
-> 👉 **https://www.linkedin.com/posts/YOUR_POST_LINK**
+> 👉 **www.linkedin.com/in/satyanarayanagattu**
 
 
 
